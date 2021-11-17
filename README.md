@@ -4,7 +4,7 @@ Frontend-разработчик с опытом работы более 2 лет
 
 <p align='center'>
    <a target="_blank" href="https://t.me/marevichh">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+       <img target="_blank" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:maksimrozette@gmail.com'>maksimrozette@gmail.com</a>
