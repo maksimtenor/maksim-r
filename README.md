@@ -30,9 +30,3 @@ Frontend-разработчик с опытом работы более 2 лет
 
 *   [image-comparison](https://maksimtenor.github.io/test_add-product/) - Веб приложение с возможностью добавлять/удалять карточку товара.
 *   [Flights-monitoring](https://maksimtenor.github.io/marevich/) - Мой личный сайт.
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
-</div>
