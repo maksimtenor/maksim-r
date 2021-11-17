@@ -18,5 +18,5 @@ Frontend-разработчик с опытом работы более 2 лет
 
 ### My opensource projects
 
-*   [image-comparison](https://maksimtenor.github.io/test_add-product/) - Веб приложение с возможностью добавлять/удалять карточку товара.
-*   [Flights-monitoring](https://maksimtenor.github.io/marevich/) - Мой личный сайт.
+*   [add/delete SPA](https://maksimtenor.github.io/test_add-product/) - Веб приложение с возможностью добавлять/удалять карточку товара.
+*   [marevich](https://maksimtenor.github.io/marevich/) - Мой личный сайт.
