@@ -3,7 +3,7 @@ Frontend-разработчик с опытом работы более 2 лет
 
 
 <p align='center'>
-   <a href="https://t.me/marevichh">
+   <a target="_blank" href="https://t.me/marevichh">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
