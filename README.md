@@ -1,18 +1,8 @@
 # Привет, меня зовут Максим 👋
 Frontend-разработчик с опытом работы более 2 лет. У меня хорошие знания в области верстки и JavaScript языке.
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
-</p>
 
 <p align='center'>
-   <a href="https://www.instagram.com/renhevich/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-   </a>
    <a href="https://t.me/marevichh">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
