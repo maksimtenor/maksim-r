@@ -1,6 +1,5 @@
-# Hi, I'm Roman 👋
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+# Привет, меня зовут Максим 👋
+Frontend-разработчик с опытом работы более 2 лет. У меня хорошие знания в области верстки и JavaScript языке.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
