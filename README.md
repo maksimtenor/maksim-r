@@ -12,7 +12,7 @@ Frontend-разработчик с опытом работы более 2 лет
 
 
 ## 🛠 Стек технологий
-*   HTML/CSS/Sass(Scss)/JS/Jquery/React.js
+*   HTML/CSS/Sass(Scss)/JS/PHP/Jquery/React.js
 *   CMS Wordpress, CMS Bitrix, CMS OpenCart
 *   GitHub
 
